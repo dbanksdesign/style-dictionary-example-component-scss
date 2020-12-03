@@ -1,0 +1,21 @@
+{
+  "size": {
+    "font": {
+      "2": { "value": 16 }
+    },
+    
+    "padding": {
+      "medium": { "value": 16 }
+    },
+    
+    "border": {
+      "width": {
+        "base": { "value": 1 }
+      }
+    },
+    
+    "icon": {
+      "base": { "value": 20 }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "style-dictionary-example-component-scss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dbanksdesign/style-dictionary-example-component-scss.git",
+  "author": "Danny Banks <djb@amazon.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "style-dictionary build --config ./sd.config.js"
+  },
+  "devDependencies": {
+    "fs-extra": "^9.0.1",
+    "lodash": "^4.17.20",
+    "style-dictionary": "^2.10.2"
+  }
+}

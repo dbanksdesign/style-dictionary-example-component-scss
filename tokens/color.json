@@ -1,0 +1,20 @@
+{
+  "color": {
+    "background": {
+      "primary": { "value": "hsl(10, 80, 50)" },
+      "secondary": { "value": "hsl(10, 80, 90)" }
+    },
+    
+    "font": {
+      "primary": { "value": "hsl(10, 80, 5)" },
+      "secondary": { "value": "hsl(10, 80, 15)" },
+      "tertiary": { "value": "hsl(10, 80, 25)" },
+      "inverse": { "value": "#fff" },
+      "link": { "value": "#00f" }
+    },
+    
+    "border": {
+      "primary": { "value": "hsl(10, 80, 80)" }
+    }
+  }
+}

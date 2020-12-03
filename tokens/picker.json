@@ -1,0 +1,27 @@
+{
+  "component": {
+    "picker": {
+      "background-color": { "value": "{color.background.primary.value}" },
+      "border-width": { "value": "{size.border.width.base.value}" },
+      "border-color": { "value": "{color.border.primary.value}" },
+      "max-height": { "value": 0.5 },
+
+      "item": {
+        "child": true,
+        "color": { "value": "{color.font.primary.value}" },
+        "font-size": { "value": "{size.font.2.value}" },
+        "padding": { "value": "{size.padding.medium.value}" },
+
+        "active": {
+          "modifier": true,
+          "background-color": { "value": "{color.background.secondary.value}" }
+        }
+      },
+      
+      "indicator": {
+        "child": true,
+        "color": { "value": "{color.font.tertiary.value}" }
+      }
+    }
+  }
+}
